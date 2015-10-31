@@ -1,2 +1,4 @@
-/home/pathmasri/STS/workspace/SpringBootCrud/src/main/java/hello/PostController.java
-/home/pathmasri/STS/workspace/SpringBootCrud/src/main/java/hello/Application.java
+/home/pathmasri/STS/workspace/SpringBootCrud/src/main/java/crud/domain/PostRepository.java
+/home/pathmasri/STS/workspace/SpringBootCrud/src/main/java/crud/domain/Post.java
+/home/pathmasri/STS/workspace/SpringBootCrud/src/main/java/crud/controller/PostController.java
+/home/pathmasri/STS/workspace/SpringBootCrud/src/main/java/crud/Application.java
